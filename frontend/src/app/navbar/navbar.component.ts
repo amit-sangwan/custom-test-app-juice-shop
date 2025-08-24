@@ -144,6 +144,9 @@ export class NavbarComponent implements OnInit {
       })
     })
   }
+goToPortfolio() {
+  window.location.href = 'https://www.amitsangwan.com';
+}
 
   filterLanguages (): void {
     if (!this.languageSearchQuery) {

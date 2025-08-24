@@ -36,8 +36,20 @@ application:
     bottomProductImage: apple_pressings.jpg
   welcomeBanner:
     showOnFirstStart: true
-    title: 'Welcome to OWASP Juice Shop!'
-    message: "<p>Being a web application with a vast number of intended security vulnerabilities, the <strong>OWASP Juice Shop</strong> is supposed to be the opposite of a best practice or template application for web developers: It is an awareness, training, demonstration and exercise tool for security risks in modern web applications. The <strong>OWASP Juice Shop</strong> is an open-source project hosted by the non-profit <a href='https://owasp.org' target='_blank'>Open Worldwide Application Security Project (OWASP)</a> and is developed and maintained by volunteers. Check out the link below for more information and documentation on the project.</p><h1><a href='https://owasp-juice.shop' target='_blank'>https://owasp-juice.shop</a></h1>"
+    title: 'Welcome to OWASP Custom Juice Shop!'
+    message: |
+      <p>The <strong>Custom Juice Shop</strong> is an interactive web application designed for <strong>tech enthusiasts</strong> who want to explore modern web technologies and learn about application security in a hands-on way.</p>
+      <p>This platform allows you to:</p>
+      <ul>
+        <li><strong>Test and explore UI features:</strong> Interact with buttons, forms, menus; validate navigation, login, registration, and responsiveness.</li>
+        <li><strong>Experiment with APIs:</strong> Observe request/response flows, check status codes, JSON structure, errors; automate tests using <strong>Rest Assured</strong> or Postman.</li>
+        <li><strong>Learn about security:</strong> Explore vulnerabilities such as SQL Injection, XSS, CSRF, authentication/authorization flaws, sensitive data exposure, and session management.</li>
+        <li><strong>OWASP vulnerability demos:</strong> Experience real-world security issues inspired by the <a href='https://owasp.org' target='_blank'>OWASP Juice Shop</a> project.</li>
+      </ul>
+      <p>All references and credit go to the original <a href='https://owasp.org' target='_blank'>OWASP Juice Shop</a> project. For more details, documentation, and other technology projects, visit my portfolio at <a href='https://www.amitsangwan.com' target='_blank'>www.amitsangwan.com</a>.</p>
+      <h2>Explore the Original OWASP Project:</h2>
+      <h3><a href='https://owasp-juice.shop' target='_blank'>https://owasp-juice.shop</a></h3>
+
   cookieConsent:
     message: 'This website uses fruit cookies to ensure you get the juiciest tracking experience.'
     dismissText: 'Me want it!'
