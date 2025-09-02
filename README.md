@@ -1,4 +1,8 @@
 
+<img width="1398" height="751" alt="Screenshot 2025-09-02 at 11 31 50 PM" src="https://github.com/user-attachments/assets/38baba7e-89a0-4176-8a0d-8e730a276d7b" />
+
+
+
 > ⚠️ **This is a custom version of OWASP Juice Shop, intended for testing REST APIs, Selenium automation, and security testing.**  
 
 > Not an official OWASP deployment. For learning, testing, and experimentation only.
